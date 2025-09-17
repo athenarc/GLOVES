@@ -1,5 +1,5 @@
 # GLOVES : Global Counterfactual-based Visual Explanations
-This repository contains the code for the Demo Paper submission for EDBT 2025.
+This repository contains the code for the Demo Paper submission for EDBT 2025 and SADIS workshop 2025.
 
 We introduce Global Counterfactual-based Visual Explanations
 (GLOVES), a visualization platform designed to enhance the explainability of decision-making systems through global counterfactual explanations (GCE). GLOVES focuses on visualizing global
