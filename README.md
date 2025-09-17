@@ -1,5 +1,6 @@
 # GLOVES : Global Counterfactual-based Visual Explanations
 This repository contains the code for the Demo Paper submission for [EDBT 2025](https://www.openproceedings.org/2025/conf/edbt/paper-310.pdf) and [SADIS workshop 2025](https://link.springer.com/chapter/10.1007/978-3-032-04403-7_28).
+![GLOVES Overview](glovesexplo.png)
 
 We introduce Global Counterfactual-based Visual Explanations
 (GLOVES), a visualization platform designed to enhance the explainability of decision-making systems through global counterfactual explanations (GCE). GLOVES focuses on visualizing global
