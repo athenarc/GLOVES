@@ -23,9 +23,7 @@ conda activate glance_env
 ```bash
 pip install -r requirements.txt
 ```
-### 4. Run Example notebook
-
-### 5. Run our FastAPI
+### 4. Run our FastAPI
 ```bash
 uvicorn app.main:app --reload
 ```
